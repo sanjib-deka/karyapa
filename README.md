@@ -1,19 +1,3 @@
-# Jira Clone Project
-
-This project is a full-stack Jira clone built using modern web development tools and libraries. It is designed to showcase a highly functional, visually appealing, and scalable application that can be added to your portfolio to impress recruiters and demonstrate your skillset.
-
-## Project Overview
-
-**YouTube Tutorial:** [Full Stack React JS Project (Jira Clone) - Next JS, Shadcn UI, Tailwind, Clerk, NeonDB Tutorial 🔥](https://www.youtube.com/watch?v=R5dBYINNouY)
-
-### Features
-
--   **Authentication:** User authentication and management using Clerk.
--   **Database:** Backend powered by NeonDB with Prisma as the ORM.
--   **UI Library:** Built with Shadcn UI components.
--   **Styling:** Tailwind CSS for rapid and responsive design.
--   **Frontend Framework:** React and Next.js for a seamless user experience.
--   **Full Stack Capabilities:** A complete implementation of a project management system inspired by Jira.
 
 ## Tech Stack
 
